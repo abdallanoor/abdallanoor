@@ -1,6 +1,8 @@
 <div align="center">
 
 <h3>Hello There 👋🏻 , I'm Abdallah </h3>
+<img src="./dev.png" alt="Guia Extenso de Programação" width="160" height="160">
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=04d9ff&center=true&vCenter=true&width=435&lines=Front+End+Developer;Passionate+Learner)
 
