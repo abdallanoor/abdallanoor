@@ -5,7 +5,7 @@
 <img src="./dev.png" alt="Abdallah Noor" width="160" height="160">
 </a> -->
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=0969da&center=true&vCenter=true&width=435&lines=Front+End+Developer;Passionate+Learner)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=004aff&center=true&vCenter=true&width=435&lines=Front+End+Developer;Passionate+Learner)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallaahnoor@gmail.com)
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=red)](https://abdallanoor.vercel.app/)
