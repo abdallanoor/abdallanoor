@@ -12,7 +12,7 @@
    
 </div>
 
-🌱 I’m currently learning everything 🤓
+<!--🌱 I’m currently learning everything 🤓-->
 
 <div align="center">
 
